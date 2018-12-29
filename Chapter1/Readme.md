@@ -42,4 +42,6 @@ $\displaystyle \Phi(x, y, z) =  f_4(f_2(f_1(y)\alpha_1 + x)\alpha_4 + f_3(f_1(y)
 
 #### Solution:
 
-[Hodgkin-Huxley Differential Equations](http://www.math.mcgill.ca/gantumur/docs/reps/RyanSicilianoHH.pdf)
+[Code](3.py)
+![Answer 3 Graph](images/answer3.png)
+

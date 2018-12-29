@@ -4,20 +4,7 @@
 ![Figure 1.15](images/figure115.PNG)
 
 #### Solution:
-
-
-```python
-from IPython.display import Math
-Math(r'\Phi(x, y, z) =  f_4(f_2(f_1(y)\alpha_1 + x)\alpha_4 + f_3(f_1(y)\alpha_2 + f_2(f_1(y)\alpha_1 + x)\alpha_3 + z)\alpha_5)')
-```
-
-
-
-
-$\displaystyle \Phi(x, y, z) =  f_4(f_2(f_1(y)\alpha_1 + x)\alpha_4 + f_3(f_1(y)\alpha_2 + f_2(f_1(y)\alpha_1 + x)\alpha_3 + z)\alpha_5)$
-
-
-
+![Answer 1](images/answer1.png)
 <br>
 <br>
 <br>
@@ -29,7 +16,7 @@ $\displaystyle \Phi(x, y, z) =  f_4(f_2(f_1(y)\alpha_1 + x)\alpha_4 + f_3(f_1(y)
 
 #### Solution:
 
-![Answer 2](images/answer2.PNG)
+![Answer 2](images/answer2.png)
 
 <br>
 <br>
@@ -44,5 +31,4 @@ $\displaystyle \Phi(x, y, z) =  f_4(f_2(f_1(y)\alpha_1 + x)\alpha_4 + f_3(f_1(y)
 
 [Code](3.py)
 
-![Answer 3 Graph](images/answer3.PNG)
-
+![Answer 3](images/answer3.PNG)

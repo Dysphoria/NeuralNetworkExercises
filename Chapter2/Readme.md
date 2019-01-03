@@ -11,6 +11,7 @@
 ### 2. Build a recurrent network capable of addiing two sequential streams of bits of arbitrary finite length.
 
 This can be modeled off of a full adder circuit:
+
 ![Adder Circuit](images/addercircuit.png)
 
 #### Solution:

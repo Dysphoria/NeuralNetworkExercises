@@ -21,3 +21,7 @@ This can be modeled off of a full adder circuit:
 <br>
 <br>
 <br>
+
+### 3. Show that no finite automaton can compute the product of two sequential streams of bits of arbitrary finite length.
+
+#### Solution: ![Finite Automaton Multiplication](https://www.sciencedirect.com/science/article/pii/0304397576900815)
